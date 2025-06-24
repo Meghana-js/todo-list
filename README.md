@@ -1,2 +1,3 @@
 # todo-list
-A simple to-do list project
+A simple to-do list project 
+user: Meghana
